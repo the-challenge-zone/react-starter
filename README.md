@@ -1,5 +1,7 @@
 # React Starter
 
+# Deze branch heeft bootstrap inbegrepen
+
 Dit is de React Starter voor The Challenge Zone.
 Hiermee kan je een React project starten.
 
