@@ -15,7 +15,7 @@ Hiermee kan je een React project starten.
 ## Installatie
 
 ```sh
-git clone --depth 1 --branch main https://github.com/the-challenge-zone/react-starter.git react-starter
+git clone --depth 1 --branch with-bootstrap https://github.com/the-challenge-zone/react-starter.git react-starter
 cd react-starter
 yarn install
 yarn start
