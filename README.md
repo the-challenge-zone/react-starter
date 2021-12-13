@@ -1,5 +1,7 @@
 # React Starter
 
+# Deze branch heeft typescript inbegrepen
+
 Dit is de React Starter voor The Challenge Zone.
 Hiermee kan je een React project starten.
 
@@ -13,7 +15,7 @@ Hiermee kan je een React project starten.
 ## Installatie
 
 ```sh
-git clone --depth 1 --branch main https://github.com/the-challenge-zone/react-starter.git react-starter
+git clone --depth 1 --branch with-typescript https://github.com/the-challenge-zone/react-starter.git react-starter
 cd react-starter
 yarn install
 yarn start
