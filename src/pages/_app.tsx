@@ -1,3 +1,4 @@
+import "bootstrap/dist/css/bootstrap.css";
 import { AppProps } from "next/app";
 import { Provider } from "react-redux";
 import store from "../app/store";
