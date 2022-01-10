@@ -1,3 +1,4 @@
+import "normalize.css";
 import { AppProps } from "next/app";
 import { Provider } from "react-redux";
 import store from "../app/store";
